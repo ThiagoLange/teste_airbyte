@@ -1,3 +1,3 @@
 SELECT *
-FROM table_name
+FROM incendio
 WHERE year = 1998
